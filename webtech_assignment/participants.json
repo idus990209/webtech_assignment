@@ -1,0 +1,28 @@
+[
+    {
+      "id":1,
+      "name":"O Ryan",
+      "email":"rick@gmail.com"
+    },
+    {
+      "id":2,
+      "name":"Elvinus",
+      "email":"glenn@gmail.com"
+    },
+    {
+      "id":3,
+      "name":"Nuri",
+      "email":"negan@gmail.com"
+    },
+    {
+        "id":4,
+        "name":"Firdaus",
+        "email":"firdausrashid5037@gmail.com"
+    },
+    {
+        "id":3,
+        "name":"Azam",
+        "email":"azamjj@gmail.com"
+    }
+    
+  ]
