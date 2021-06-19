@@ -53,7 +53,7 @@ function loadVideos() {
 
 function loadUsers(){
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'participantdb.php', true);
+    xhr.open('GET', 'controller/Question1RestController.php?query=participants', true);
   
     xhr.onload = function(){
       if(this.status == 200){
